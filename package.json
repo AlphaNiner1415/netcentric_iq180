@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ukkabanana/netcentric_iq180.git"
+    "url": "git+https://github.com/AlphaNiner1415/netcentric_iq180_2.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ukkabanana/netcentric_iq180/issues"
+    "url": "https://github.com/AlphaNiner1415/netcentric_iq180_2/issues"
   },
-  "homepage": "https://github.com/Ukkabanana/netcentric_iq180#readme",
+  "homepage": "https://github.com/AlphaNiner1415/netcentric_iq180_2#readme",
   "dependencies": {
     "correcting-interval": "^2.0.0",
     "express.js": "^1.0.0",
